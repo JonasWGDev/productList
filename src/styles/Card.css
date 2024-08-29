@@ -1,0 +1,6 @@
+#card {
+    gap: 20px;
+    flex-wrap: wrap;
+    /* width: 200px; */
+    /* border: 1px solid red; */
+}
